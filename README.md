@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Daniela 👋
 
-<!--
-**DaGa-12/DaGa-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm an aspiring Data Analyst currently learning SQL, Python, and Data Science.
 
-Here are some ideas to get you started:
+I enjoy solving problems, analyzing data, and building projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- SQL (Joins, Aggregations, GROUP BY, HAVING)
+- Python (Basics, data handling)
+- Data Analysis
+
+---
+
+## 📊 Projects
+- SQL Sales Analysis (check my repositories!)
+
+---
+
+## 🌱 Currently Learning
+- Data Science
+- Machine Learning fundamentals
+
+---
+
+## 🎯 Goal
+To land my first role as a Data Analyst and grow in the tech industry.
